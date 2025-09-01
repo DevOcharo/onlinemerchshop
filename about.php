@@ -9,9 +9,14 @@
 <body>
   <?php include 'header.php'; ?>
   
-<section class="about">
-  <h1>About MERCH.</h1>
-  <p>Born in Ongata Rongai, we’re redefining Kenyan streetwear with bold minimalism. 
-  Our collections are inspired by everyday hustle, Rongai vibes, and the energy of Nairobi.</p>
-  <p>We believe fashion should be simple, affordable, and expressive — made for the streets, made for you.</p>
-</section>
+  <section class="about">
+    <h1>About MERCH.</h1>
+    <p>Born in Ongata Rongai, we’re redefining Kenyan streetwear with bold minimalism. 
+    Our collections are inspired by everyday hustle, Rongai vibes, and the energy of Nairobi.</p>
+    <p>We believe fashion should be simple, affordable, and expressive — made for the streets, made for you.</p>
+  </section>
+
+  <?php include 'footer.php'; ?>
+</body>
+</html>
+
