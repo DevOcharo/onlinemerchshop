@@ -1,0 +1,13 @@
+onlinemerchshop/
+│
+├── index.php        (homepage: hero + featured products)
+├── shop.php         (full shop grid)
+├── about.php        (brand story)
+├── contact.php      (WhatsApp + form)
+├── cart.php       (cart/checkout placeholder)
+├── css/
+│   └── style.css     (shared styles)
+└── images/
+    ├── tee.jpg
+    ├── hoodie.jpg
+    └── cap.jpg
