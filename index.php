@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Minimalist Merch Store</title>
+  <title>Merch Store</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -14,7 +14,7 @@
   <section class="hero">
     <h1>Streetwear Made in Rongai</h1>
     <p>Minimal. Bold. Yours.</p>
-    <a href="#shop" class="btn">Shop Now</a>
+    <a href="shop.php" class="btn">Shop Now</a>
   </section>
 
   <section id="shop" class="products">
