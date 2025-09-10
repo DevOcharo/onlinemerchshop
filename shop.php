@@ -9,7 +9,6 @@
 </head>
 <body>
   <?php include 'header.php'; ?>
-
   <section class="products">
     <div class="product">
       <img src="https://via.placeholder.com/300x400" alt="T-shirt">
@@ -27,7 +26,6 @@
       <p>KES 1,200</p>
     </div>
   </section>
-
   <?php include 'footer.php'; ?>
 </body>
 </html>
